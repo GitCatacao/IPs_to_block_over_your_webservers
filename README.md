@@ -74,6 +74,7 @@ N.B. 0/24 is a [CIRD](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routi
 ```
 
 Feel free to do so or not.
+
 For Apache HTTP Server you can use `.htaccess` and [set these IPs as forbidden](https://serverfault.com/questions/714270/how-to-block-ip-in-htaccess-on-apache-2-4#answer-750459).
 
 In case you have more services use a firewall (eg [ufw](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu) for Linux, [Windows Firewall](https://knowledge.civilgeo.com/configuring-windows-firewall-to-allow-or-block-ip-addresses/) for Windows).
