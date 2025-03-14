@@ -73,4 +73,4 @@ N.B. 0/24 is a [CIRD](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routi
 
 ```
 
-Feel free to do it or not. For Apache you can use `.htaccess` to do this and set these IPs as forbidden.
+Feel free to do so or not. For Apache you can use `.htaccess` and set these IPs as forbidden. In case you have more services use a firewall (eg ufw for Linux, Windows Firewall for Windows).
