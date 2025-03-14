@@ -9,7 +9,7 @@ After careful analysis of the logs, these are the known static IPs sorted that a
 
 The list will be updated as it will be on the managed servers as soon as possible.
 <!-- This list should be called fuck these bastards -->
-N.B. 0/24 is a [CIRD](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing) notation to identify all the IPs from 0 to 255. If you are a server administrator you most likely already know this.
+N.B. 0/24 is a [CIRD](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing) notation to identify a group of IPs. When you see it at the end it means all the IPs from 0 to 255. If you are a server administrator you most likely already know this.
 ```
 5.135.58.204
 15.204.37.20
