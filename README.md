@@ -2,7 +2,7 @@
 ## A list of known IPs that everyone should block on their webservers (static IP scanners)
 
 This is a list of scanners that do nothing but check traffic and scan servers. They're not spiders or crawlers, they do this with webservers as well as other services.
-Under the pretext of analyzing the network they perform checks and take information.
+**Under the pretext of analyzing the network they perform checks and take information.**
 There is no body that prohibits this practice so everyone sets themselves up as God and checks other people's servers by scanning files (sometimes even looking for file names that should be private). Anyone could open a service like this and scan other people's servers claiming to perform security checks.
 
 After careful analysis of the logs, these are the known static IPs sorted that annoy webmasters and server system administrators.
