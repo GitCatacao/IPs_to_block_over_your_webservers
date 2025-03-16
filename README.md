@@ -3,7 +3,7 @@
 
 This is a list of scanners that do nothing but check traffic and scan servers. They're not scrapers, spiders or crawlers, they do this with webservers as well as other services.
 **_Under the pretext of analyzing the network they perform checks and take information._**
-There is no body that prohibits this practice so everyone is pretending to be God and controlling other people's servers/organizations by scanning files (sometimes even looking for file names that should be private). Anyone could open a service like this and scan other people's servers claiming to perform security checks.
+There's nobody who prohibits this practice so everyone is pretending to be God and controlling other people's servers/organizations by scanning files (sometimes even looking for file names that should be private). Anyone could open a service like this and scan other people's servers claiming to perform security checks.
 
 After careful analysis of the logs, these are the known static IPs sorted that annoy webmasters and server system administrators.
 
