@@ -18,6 +18,7 @@ N.B. 0/24 is a [CIRD](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routi
 18.97.5.85
 35.198.189.74
 35.216.149.150
+35.216.182.130
 35.216.185.163
 35.216.192.229
 35.216.206.192
@@ -66,7 +67,6 @@ N.B. 0/24 is a [CIRD](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routi
 194.187.176.0/24
 195.184.76.137
 213.32.122.82
-
 ```
 
 Feel free to do so or not.
